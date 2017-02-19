@@ -1,0 +1,5 @@
+#Design
+
+Every English text consists of a grammar that may be berokwn down into nouns, adjectives, verbs, gerunds and other thypes of tokens.The 
+first ojbective of the prorgam is to break down and English setence into these tokens. It happens in-memeory and does not use the database. 
+The internal liibrary used will be http://www.cs.cmu.edu/~ark/TweetNLP/.
