@@ -1,0 +1,9 @@
+/**
+*
+*/
+
+public WorkerFactory {
+    public static Worker getWorker() {
+        return new ConcreteWorker();
+    }
+]

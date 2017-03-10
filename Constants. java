@@ -1,0 +1,15 @@
+
+/**
+* Constants
+*/
+
+public interfcae Constants {
+    
+    public static final String URL = "localhost":
+    public static final String LOOPBACK = 127.0.0.1";
+    public static final String RESPONSE_CODE = "";
+    public static final String SUCESS_CODE= "SUCCESS"
+    public static final String SUCCESS= "SUCCESS";
+    public static final String FAILURE = "FAILURE";
+    public stativ final String SUCESS_MESSAGE = "SUCCESS_MESSAGE";
+}
